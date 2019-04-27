@@ -1,0 +1,1 @@
+The project can be tested by running the junit tests written in "com.sweedalplatina.task.test.StringCalculatorTest" class.
